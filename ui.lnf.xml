@@ -1,5 +1,8 @@
 <application>
   <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="100" />
+    <option name="EDITOR_TAB_PLACEMENT" value="4" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>
