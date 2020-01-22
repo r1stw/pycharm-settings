@@ -10,6 +10,10 @@
           <option name="url" value="http://gitlab.nekkimobile.ru" />
           <option name="userName" value="s.rodin" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.r1stw.space" />
+          <option name="userName" value="r1" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
